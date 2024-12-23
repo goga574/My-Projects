@@ -1,0 +1,77 @@
+
+
+body{
+    background-image: url(./images/3167720.jpg);
+    
+} 
+
+ h1{
+    font-family: sans-serif;
+    color: #9b0000b8;
+    font-size: 50px;
+} 
+div{
+
+    margin-top: 220px;
+    text-align: center;
+}
+
+div input{
+    border-radius: 15px;
+    color: red;
+    font-size: 20px;
+    outline: none;
+    font-family:sans-serif;
+    background-color: hsla(0, 0%, 0%, 0.33);
+    height: 50px;
+    width: 300px; 
+}
+
+input:hover{
+    color: red;
+    font-size: 23px;
+    transition: 0.4s;
+    width: 310px;
+    height: 60px;
+    border: none;
+    box-shadow: 5px 5px 20px red;
+}
+
+.s1{
+    height: 40px;
+    width: 150px;
+    color: gray;
+}
+
+.s1:hover{
+    width: 165px;
+    height:55px ;
+    transition: 0.4s;
+    color: red;
+}
+
+button{
+    border-radius: 15px;
+    height: 40px;
+    width: 150px;
+    transition: 0.4s;
+    font-size: 20px;
+    background-color: hsla(0, 0%, 0%, 0.33);
+}
+
+button a{
+    color: gray;
+    text-decoration: none;
+    
+}
+button :hover{
+   color: red;
+   width: 200px;
+   text-shadow: 5px 5px 10px red;
+    
+}
+
+button a:hover{
+    font-size:23px ;
+}
+   

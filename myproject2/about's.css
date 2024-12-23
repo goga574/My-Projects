@@ -1,0 +1,168 @@
+/* 
+body{
+
+    background-color: rgb(35, 31, 31);
+} */
+.dv{
+    height: 2000px;
+    background-color:  rgb(35, 31, 31);
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+   
+} 
+
+
+    
+.ul1{
+    margin-top:-40px;
+    padding-left: 1050px;
+    display: flex;
+    font-size: 30px;
+
+}  
+
+.ul1 li{
+   
+    padding-right: 130px;
+    list-style-type: none;
+    
+}
+
+li a{
+    
+    color:black;
+    font-family:cursive;
+    text-decoration: none;
+}
+/* 
+nav{
+    /* /* margin-top: -30px;
+    margin-left: -20px;
+    margin-right: -20px; */
+    /* height: 100px;
+    background-color: white; */
+    
+
+ 
+
+.l1 a:hover{
+
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+    
+}
+
+.l2 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+}
+
+.l3 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+.l4 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+
+
+div{
+    background-color:rgb(255, 255, 255);
+    height: 110px;
+    
+}
+
+.hfirst{
+
+    padding-top: 30px;
+    padding-left: 150px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+/* end of nav menu=================================== */
+
+
+img{
+    margin-left: -20px;
+    border-radius: 30px;
+    margin-top: 0px;
+    width: 700px;
+    height: 500px;
+}
+
+p{
+    color: white;
+    text-align: left;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+
+p:hover{
+    font-size: 26px;
+    transition: 0.4s;
+}
+section{
+    margin-left: 750px;
+    margin-top: -400px;
+}
+
+.sec1{
+    margin-top: 250px;
+    margin-left: 1240px;
+}
+
+.img:hover{
+
+    box-shadow: 7px 7px 15px red;
+    transition: 0.4s;
+}
+
+.img2:hover{
+    box-shadow: -7px -7px 15px red;
+    transition: 0.5s;
+}
+
+.sec p{
+    text-align: right;
+}
+
+.sec{
+    /* margin-left: 1000px; */
+    padding-right: 700px;
+    margin-top: -500px;
+}
+
+.villa1{
+    margin-top: 170px;
+}
+
+.villa1:hover{
+    box-shadow: 7px 7px 15px red;
+    transition: 0.4s;
+}
+
+.section p {
+    text-align: left;
+}
+
+b{
+    color: red;
+}

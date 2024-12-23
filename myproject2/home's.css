@@ -1,0 +1,122 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+} 
+body{
+    background-color: brown;
+    background-image: url(./images/trGCUL.webp);
+    background-size: cover;
+    
+}
+
+
+    
+.ul1{
+    margin-top:-40px;
+    padding-left: 1050px;
+    display: flex;
+    font-size: 30px;
+}  
+
+.ul1 li{
+   
+    padding-right: 130px;
+    list-style-type: none;
+    
+}
+
+li a{
+    
+    color:black;
+    font-family:cursive;
+    text-decoration: none;
+}
+
+
+ 
+
+.l1 a:hover{
+
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+    
+}
+
+.l2 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+}
+
+.l3 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+.l4 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+
+
+div{
+    background-color:rgb(255, 255, 255);
+    height: 110px;
+    
+}
+
+.hfirst{
+
+    padding-top: 30px;
+    padding-left: 150px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.b1{
+    margin-top: 160px;
+    margin-left: 200px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+
+    
+}
+.b1:hover{
+    border-radius: 15px;
+    font-size: 22px;
+    transition: 0.4s;
+    border: 2px solid black;
+}
+
+.b1 a{
+    font-family: cursive;
+    padding: 15px;
+    color: orange;
+    text-decoration: none;
+}
+
+.bold{
+    color: rgb(87, 76, 76);
+}
+
+
+.sec1{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
