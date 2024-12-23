@@ -1,38 +1,91 @@
+
+*{
+    margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} 
 body{
     background-color: brown;
 }
 
-ul{
-    margin-left: 1200px;
-    padding: 0px;
+.ul1{
+    
+    padding-left: 1200px;
     display: flex;
     font-size: 30px;
 
 }  
 
-ul li{
-    
-    padding-right: 150px;
+.ul1 li{
+   
+    padding-right: 130px;
     list-style-type: none;
     
 }
 
 li a{
     
+    color:black;
+    font-family:cursive;
     text-decoration: none;
 }
-
+/* 
 nav{
-    /* margin-top: -30px;
+    /* /* margin-top: -30px;
     margin-left: -20px;
     margin-right: -20px; */
-    height: 100px;
-    background-color: aqua;
+    /* height: 100px;
+    background-color: white; */
     
 
+ 
+
+.l1 a:hover{
+
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+    
 }
-*{
-     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} 
+
+.l2 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+ 
+}
+
+.l3 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+.l4 a:hover{
+    background-color: hsla(0, 18%, 71%, 0.342);
+    color: rgb(240, 40, 40);
+    font-size: 34px;
+    transition: 0.3s;
+}
+
+/* .hfirst{
+    margin-bottom:100px ;
+    padding-left: 150px;
+} */
+
+div{
+    background-color:rgb(255, 255, 255);
+    height: 110px;
+    
+}
+
+.hfirst{
+    padding-top: 40px;
+    padding-left: 150px;
+   
+    
+}
