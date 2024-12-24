@@ -22,10 +22,10 @@ img{
 
 img:hover{
     
-        box-shadow: 5px 5px 30px rgb(66, 55, 52);
-        transition: 0.6s;
-        width: 520px;
-        height: 280px;
+    box-shadow: 5px 5px 30px rgb(66, 55, 52);
+    transition: 0.6s;
+    width: 520px;
+    height: 280px;
 }
 
 img:active{
@@ -44,9 +44,9 @@ img:active{
 }
 
 .h1:hover{
-        transition: 0.5s;
-        font-size: 57px;
-        text-shadow: 5px 5px 10px rgb(65, 88, 192);
+    transition: 0.5s;
+    font-size: 57px;
+    text-shadow: 5px 5px 10px rgb(65, 88, 192);
         
 }
 
