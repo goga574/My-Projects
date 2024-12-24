@@ -186,4 +186,5 @@ div{
     font-size: 30px;
     text-shadow: 6px 6px 10px red;
     text-decoration: solid underline red 3px;
+    transition: 0.4s;
 }
